@@ -1,6 +1,6 @@
 # activity_tracker
 
-A new Flutter project.
+It is an amazing flutter app, used to track your activity and also based on your mood provide some exercises to boost your morale.
 
 ## Getting Started
 
